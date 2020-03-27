@@ -126,11 +126,13 @@ h3 {
 #smm {
     max-height: 200px;
     float: left;
+    margin-right: 25px;
 }
 
 #orm {
     max-height: 200px;
     float: right;
+    margin-left: 25px;
 }
  h2 {
     margin-bottom: 20px;

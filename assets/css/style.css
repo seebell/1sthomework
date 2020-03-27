@@ -99,11 +99,13 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-img {
+
+#lg,
+#ba,
+#cm {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    float: left;
 }
 
 
@@ -120,11 +122,16 @@ img {
 }
 
 
-img {
+#seo,
+#smm {
     max-height: 200px;
+    float: left;
 }
 
-
+#orm {
+    max-height: 200px;
+    float: right;
+}
  h2 {
     margin-bottom: 20px;
     font-size: 36px;
